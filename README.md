@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 </table>
 <hr>
 
-<hr>
-
 ### 🛠 Tools Known
 <table>
   <tr>
