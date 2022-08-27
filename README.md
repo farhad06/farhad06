@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <tr>
     <td><a href="https://www.linkedin.com/in/farhadahamed/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="100" ></a></td>
     <td><a href="mailto: farhadahamed06@gmail.com" ><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="100" ></a></td>
+    <td><a href="https://www.hackerrank.com/fa_ahamed134" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="100" ></a></td>
   </tr>
 </table>  
   
