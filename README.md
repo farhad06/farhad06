@@ -17,10 +17,20 @@ Here are some ideas to get you started:
 
 <img src="https://miro.medium.com/max/1024/1*IfOx-GQtB6eyjaBWqFRe5A.png" height='320' width='100%' >
 <hr>
-
+<table>
+<tr>  
+<td>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=farhad06&theme=vue-dark&show_icons=true&count_private=true)
 
+</td>  
+
+<td>
+  
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=farhad06&layout=compact)
+  
+  </td>
+  </tr>
+  </table>
   
   
   
