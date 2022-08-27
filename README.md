@@ -17,7 +17,17 @@ Here are some ideas to get you started:
 
 <img src="https://miro.medium.com/max/1024/1*IfOx-GQtB6eyjaBWqFRe5A.png" height='320' width='100%' >
 <hr>
+<div float="left">
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=farhad06&theme=highcontrast&show_icons=true&count_private=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=farhad06&theme=highcontrast&show_icons=true&count_private=true)    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=farhad06&layout=compact)
+</div>
+
+<div float="right">
+  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=farhad06&layout=compact)
+  
+</div>  
+  
 
 
