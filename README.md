@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### 💻 Programming Language Known
 <table>
   <tr>
-    <td><img src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" width="50" ></td>
+    <td><img src="![image](https://user-images.githubusercontent.com/62052765/187037837-a6e90a6d-279e-4864-ae7d-937fceab612d.png)" width="50" ></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="50" ></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" ></td>
     <td><img src="https://thumbs.dreamstime.com/b/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg" width="50" ></td>
