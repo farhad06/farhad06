@@ -26,6 +26,20 @@ Here are some ideas to get you started:
 
 <hr>
 
+### 💻 Programming Language Known
+<table>
+  <tr>
+    <td><img src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" width="50" ></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="50" ></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" ></td>
+    <td><img src="https://thumbs.dreamstime.com/b/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg" width="50" ></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-bW2a0otsQQY_SIQNZQAJEIGTouWE3llEYUIJUA&s" width="50" ></td>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="50" ></td>
+  </tr>
+</table>  
+
+<hr>
+
 ### 🤝 Connect With Me
 <table>
   <tr>
