@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![all](https://user-images.githubusercontent.com/62052765/187013564-438981ea-d708-4fce-ad23-59f0dd41c2bf.png)
+![all](<img src="https://miro.medium.com/max/1024/1*IfOx-GQtB6eyjaBWqFRe5A.png">)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=farhad06&theme=highcontrast&show_icons=true&count_private=true)
 
