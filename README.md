@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <hr>
 
 ### 💻 Programming Language Known
-<table>
+<table align='left' >
   <tr>
     <td><img src="https://github.com/farhad06/farhad06/blob/main/download.jpg" width="50" ></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="50" ></td>
