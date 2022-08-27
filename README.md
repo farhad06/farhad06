@@ -38,7 +38,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<p align="left">
 <h3>Tools Known</h3> 
 <table>
   <tr>
@@ -50,7 +49,6 @@ Here are some ideas to get you started:
     <td><img arc="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width='50' ></td>
     </tr>
 </table>
-</p>
 
 <hr>
 
