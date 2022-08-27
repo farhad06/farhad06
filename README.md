@@ -33,6 +33,7 @@ Here are some ideas to get you started:
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="50" ></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" ></td>
     <td><img src="https://thumbs.dreamstime.com/b/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg" width="50" ></td>
+    <td><img src="https://github.com/farhad06/farhad06/blob/main/flask1.png" width="50" ></td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-bW2a0otsQQY_SIQNZQAJEIGTouWE3llEYUIJUA&s" width="50" ></td>
     <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="50" ></td>
     <td><img src="https://www.pngitem.com/pimgs/m/197-1973343_sql-database-icon-png-transparent-png.png" width="50" ></td>
