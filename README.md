@@ -38,10 +38,10 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<h3>Tools Known</h3> 
+### 🛠 Tools Known
 <table>
   <tr>
-    <td><img arc="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width='50' ></td>
+    <td><img arc="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width='50' >     </td>
     <td><img arc="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width='50' ></td>
     <td><img arc="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" width='50' ></td>
     <td><img arc="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width='50' ></td>
