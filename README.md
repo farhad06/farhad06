@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="[https://miro.medium.com/max/1024/1*IfOx-GQtB6eyjaBWqFRe5A.png](https://www.springboard.com/blog/wp-content/uploads/2018/11/Best-Programming-Languages-for-AI-2021-Project-Guide-scaled.jpg)" height='320' width='100%' >
+<img src="https://github.com/farhad06/farhad06/blob/main/overview_page.jpg" height='320' width='100%' >
 <hr>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=farhad06&theme=chartreuse-dark&show_icons=true&count_private=true)
