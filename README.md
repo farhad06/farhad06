@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/farhad06/farhad06/blob/main/overview_page.jpg" height='380' width='100%' >
+<img src="https://github.com/farhad06/farhad06/blob/main/overview_page.jpg" height='350' width='100%' >
 <hr>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=farhad06&theme=chartreuse-dark&show_icons=true&count_private=true)
