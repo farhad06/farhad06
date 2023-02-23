@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=farhad06&layout=compact)
 
+<table>
+  <tr>
+    <td> ![Github stats](https://github-readme-stats.vercel.app/api?username=farhad06&theme=chartreuse-dark&show_icons=true&count_private=true) </td>
+    <td> ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=farhad06&layout=compact) </td>
+  </tr>
+</table>
+
 <hr>
 
 ### 💻 Programming Language Known
